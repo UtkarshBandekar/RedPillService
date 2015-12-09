@@ -1,0 +1,6 @@
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.dll.config
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.dll
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.pdb
+E:\Reference\RedifyService\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
+E:\Reference\RedifyService\RedPillService\RedPillService\obj\Release\RedPillService.dll
+E:\Reference\RedifyService\RedPillService\RedPillService\obj\Release\RedPillService.pdb

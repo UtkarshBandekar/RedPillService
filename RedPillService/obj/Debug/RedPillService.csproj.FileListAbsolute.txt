@@ -1,0 +1,5 @@
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.dll.config
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.dll
+E:\Reference\RedifyService\RedPillService\RedPillService\bin\RedPillService.pdb
+E:\Reference\RedifyService\RedPillService\RedPillService\obj\Debug\RedPillService.dll
+E:\Reference\RedifyService\RedPillService\RedPillService\obj\Debug\RedPillService.pdb
